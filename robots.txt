@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-246ws2.indcuan.cfd/sitemap.xml
